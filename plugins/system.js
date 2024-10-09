@@ -22,10 +22,10 @@ _*⚙️ Ａｌｅｘａ Ｓｙｓｔｅｍ  Ｉｎｆｏ ⚙️*_
 │❖ *ᴜᴘᴛɪᴍᴇ :* _${runtime(process.uptime())}_
 │❖ *ʀᴀᴍ ᴜꜱᴀɢᴇ :*  _${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB_
 │❖ *ʜᴏꜱᴛ ɴᴀᴍᴇ :* _${os.hostname()}_
-│❖ *ᴏᴡɴᴇʀ :* _Sadeesha Tharumin_
+│❖ *ᴏᴡɴᴇʀ :*_xman_
 └────────────────
 
-> ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴛʜᴀʀᴜᴍɪɴ    
+> ᴄʀᴇᴀᴛᴇᴅ ʙʏ _xman_ 
 `
 
     return reply(`${status}`)
