@@ -89,20 +89,7 @@ jobs:
 <div align="center">
 <h3>Alexa Developer Team 👤</h3>
 
-| Sadeesha 👤             | Vihanga 👤            | Nisitha 👤             | Maneth 👤             | Imalshan 👤             |                       
-|----------------------|----------------------|----------------------|----------------------|----------------------|
-| [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![Maneth](https://i.ibb.co/RNmMpFM/IMG-20240918-WA0013.jpg)](https://github.com/sadiyamin/Alexa/) | [![Imalshan](http://i.ibb.co/HGMmFhY/img-1-1724244686195.webp)](https://github.com/sadiyamin/Alexa)
-
-</div>
-
-<hr>
-
-<div align="center">
-    
-| Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
-|----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
-| [![Owner](https://img.shields.io/badge/Author-sSadeesha-red.svg)](https://github.com/sadiyamin/Alexa/) | [![Repository](https://img.shields.io/badge/Repo-Alexa-red.svg)](https://github.com/sadiyamin/Alexa) | [![GitHub forks](https://badgen.net/github/forks/sadiyamin/Alexa/)](https://GitHub.com/sadiyamin/Alexa/network/) | [![GitHub stars](https://badgen.net/github/stars/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/PikaBotz/anya_v2-md.svg)](https://github.com/sadiyamin/Alexa/blob/master/LICENSE) 
-
+| Sadeesha 👤               | xman
 | Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
 |---------------------|---------------------|---------------------|
 | [![GitHub release](https://img.shields.io/github/release/PikaBotz/Anya_v2-Md.svg)](https://GitHub.com/sadiyamin/Alexa/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/sadiyamin/Alexa/graphs/commit-activity) |
